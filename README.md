@@ -1,4 +1,6 @@
-###### front-end da aplicação web que o back está sendo desenvolvido [aqui](https://github.com/ddaiane/Backend_squad5_FCamara).
+###### Esse é um repositório de backup do front-end da aplicação web cujo back está sendo desenvolvido [aqui](https://github.com/ddaiane/Backend_squad5_FCamara).
+
+
 
 Para execução, entrar na pasta Client, abrí-la no VsCode, instalar o npm através do 'npm install' e executar o comando 'npm start'
 A aplicação será rodada na PORT 3000 do localhost.
